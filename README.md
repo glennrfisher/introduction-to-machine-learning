@@ -12,7 +12,7 @@ You can view the program to diagnose cancer cells as [HTML](http://htmlpreview.g
 
 To execute the interactive notebook document on your computer:
 
-1. Install [Anaconda](https://docs.continuum.io/).
+1. Install [Anaconda](https://www.continuum.io/why-anaconda).
 2. Install dependencies: `conda install jupyter pandas numpy scikit-learn matplotlib seaborn`
 3. Download the [interactive notebook document](https://github.com/glennrfisher/introduction-to-machine-learning/blob/master/notebook/Teaching%20a%20Computer%20to%20Diagnose%20Cancer.ipynb).
 4. Start Jupyter Notebook: `jupyter notebook`
